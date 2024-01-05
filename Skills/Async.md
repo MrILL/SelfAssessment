@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
+  - Event loop 🙋 explained
+  - try..catch 🙋 explained
+  - Non-blocking 👂 heard
+  - Async I/O 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,62 +13,62 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions 🎓 known
+  - Dead locks 🎓 known
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 👂 heard
+  - Parallel programming 🎓 known
   - Actor Model
-  - Thread
-  - Process
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
-  - Callbacks
+  - Callbacks 🙋 explained
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Thenable 🙋 explained
+  - Promise 🙋 explained
+  - Async/await 🙋 explained
+  - Future 👂 heard
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 🖐️ used
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 👂 heard
+  - Stream 🎓 known
+  - Chain of responsibility 👂 heard
+  - Middleware 🙋 explained
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify
+  - promisify 🖐️ used
   - asyncify
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
+  - EventEmitter 👂 heard
+  - Observable/Observer 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore 👂 heard
+  - Mutex 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers 🎓 known
+  - setImmediate 👂 heard
   - nextTick
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
+  - child_process 👂 heard
+  - worker_threads 👂 heard
+  - Atomics 👂 heard
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -82,9 +82,9 @@
   - AsyncResource
 - Techniques
   - async.js library
-  - RxJS library
+  - RxJS library 👂 heard
   - Async composition
-  - Promise.all
+  - Promise.all 🖐️ used
   - Promise.allSettled
   - Promise.race
   - Promise.any
